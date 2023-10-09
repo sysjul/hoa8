@@ -1,0 +1,5 @@
+[ubuntu_nagios]
+192.168.56.118
+
+[centos_nagios]
+192.168.56.120
